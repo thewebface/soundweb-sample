@@ -1,0 +1,13 @@
+
+#level-outer {
+	width:400px;
+	height:100px;
+	border:1px solid #999;
+	padding:10px;
+}
+
+#level-inner {
+	background-color:#ff8012;
+	height:100%;
+	width:0%;
+}
